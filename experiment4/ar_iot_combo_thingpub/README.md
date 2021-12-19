@@ -29,7 +29,7 @@ After implementing the required proceedings, the AR app was able to connect to t
 acting as a client, and using subscribe messages. This way, the AR app has correctly accessed and displayed
 (read-only) the Nozzle Extruder and Bed temperature values in real-time, reflecting all eventual temperature
 fluctuations occurred to the variables inside the IoT environment,.
-<br>
+<br><br>
 <div align=center>
     <img src="https://github.com/paulonegrao/assets/blob/master/POC15.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
 </div>
