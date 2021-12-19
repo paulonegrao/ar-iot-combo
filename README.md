@@ -22,7 +22,7 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
 <h2>Report</h2/>
 <div align=center>
     <a href="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.pdf">
-        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
+        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.png" height="30%" width="30%" alt="AR - IoT Combo" width="650px" />
     </a>
 </div>
 
