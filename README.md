@@ -9,11 +9,11 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
 <br>
 
 ## Under Construction
-We are currently uploading the POC experiments and other resources to this Repo
-At this moment you can find the code fot Experiment-3 and Experiment-4 on their specific folders 
-More resources will be uploaded soon!
+We are currently uploading the POC experiments and other resources to this Repo <br>
+At this moment you can find the code for experiment3 and experiment4 on their respective folders 
+More experiments and resources will be uploaded soon!
 
-Thanks...
+Thanks for stopping by...
 
 <br>
 <div align=center>
