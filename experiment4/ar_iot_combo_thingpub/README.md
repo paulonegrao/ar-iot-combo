@@ -1,10 +1,15 @@
 # ar-iot-combo
-## Experiment 4: Integrating AR IoT (MQTT enabled AR app)
-This experiment includes, for the first time, an MQTT enabled AR application integrated to IoT data. The AR app
-was transformed in a true MQTT client, and it is using the subscribe messages to access the MPC variables in
-real-time, permitting their visualization inside the AR interface. This way, we have a direct integration between the
-AR and IoT environments via MQTT. At this point, the experiment delivers a "read-only" version of the AR app.
-No modifications in terms of variables’ values, or even remote commands were implemented.
+## Experiment 4: Integrating AR & IoT (full interaction - read & write support)
+This experiment includes, for the first time, an MQTT enabled AR application with full integration to IoT data.
+The AR app was transformed in a true MQTT client, and it is using the publish messages to send commands to
+the IoT environment and modify the MPC variables in real-time, using virtual buttons inside the AR interface. This
+way, we have a direct integration between the AR - IoT environments, via MQTT, and with full control (enabled to
+read and write IoT variables). At this point, the AR app has implemented the following buttons/commands:
+<ul>
+    <li>Preheat - to initiate a 3D printer preheating routine for both, Nozzle Extruder and Bed temperature</li>
+    <li>Cooldown - to bring the Nozzle Extruder and Bed components to ambient room temperature</li>
+    <li>Print - to send a file (in this case, the thiNg file) to be 3D printed</li>
+</ul>
 <br>
 <div align=center>
     <img src="https://github.com/paulonegrao/assets/blob/master/POC_EXP4_1.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
@@ -19,16 +24,15 @@ No modifications in terms of variables’ values, or even remote commands were i
     </ul>
 <li>Tasks (only the additional ones will be listed):</li>
     <ul>
-        <li>Install and configure Unity and Vuforia free versions for XR/AR development (to develop AR apps).</li>
-        <li>Install and configure M2MQTT open-source library (to enable AR via MQTT apps using subscribe
+        <li>Install and configure M2MQTT open-source library (to enable AR via MQTT apps using publish messages)</li>
 messages)</li>
      </ul>
 </ul>
 <h3>Results</h3>
 After implementing the required proceedings, the AR app was able to connect to the IoT environment via MQTT,
-acting as a client, and using subscribe messages. This way, the AR app has correctly accessed and displayed
-(read-only) the Nozzle Extruder and Bed temperature values in real-time, reflecting all eventual temperature
-fluctuations occurred to the variables inside the IoT environment,.
+acting as a client, and using publish messages. This way, the AR app has commanded Preheat, Cooldown, and
+Print routines straight to the MPC 3D printer, inside the IoT environment. The 3D printer has correctly received
+the command and started the respective routine with success.
 <br><br>
 <div align=center>
     <img src="https://github.com/paulonegrao/assets/blob/master/POC15.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
