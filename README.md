@@ -19,6 +19,14 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
         <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Poster.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
     </a>
 </div>
+<h2>Report</h2/>
+<div align=center>
+    <a href="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.pdf">
+        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
+    </a>
+</div>
+
+https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.png?raw=true
 ## Under Construction
 We are currently uploading the POC experiments and other resources to this Repo <br>
 At this moment you can find the code for experiment3 and experiment4 on their respective folders 
