@@ -1,5 +1,5 @@
 # ar-iot-combo
-## Experiment 3
+## Experiment 3: Integrating AR IoT (MQTT enabled AR app)
 This experiment includes, for the first time, an AR application integrated to IoT data. In this case, we will be using
 a cloud dataset as an intermediary stage between the IoT environment and the AR app. The Node-RED code will
 be monitoring the MPC variables via MQTT. When the temperature values present a variation equal or greater a
