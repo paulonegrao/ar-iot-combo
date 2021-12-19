@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/thiNgPub/Scenes/thiNgPub.unity
+  isLoaded: 1
+  isActive: 1
