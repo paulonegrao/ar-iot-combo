@@ -7,9 +7,15 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
     <img src="https://github.com/paulonegrao/assets/blob/master/ar-iot.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
 </div>
 <br>
+<h2>Video</h2/>
+<div align=center>
+    <a href="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.pdf">
+        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Video.png?raw=true" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
+    </a>
+</div>
 <h2>Slides</h2/>
 <div align=center>
-    <a href="https://drive.google.com/file/d/1rQWGZpZyY1siZMAhEXXor_mMUCRewKCM/view?usp=sharing">
+    <a href="https://youtu.be/NqEGrzQWvYU">
         <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Slides.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
     </a>
 </div>
@@ -25,8 +31,7 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
         <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.png" height="30%" width="30%" alt="AR - IoT Combo" width="650px" />
     </a>
 </div>
-
-https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.png?raw=true
+https://youtu.be/NqEGrzQWvYU
 ## Under Construction
 We are currently uploading the POC experiments and other resources to this Repo <br>
 At this moment you can find the code for experiment3 and experiment4 on their respective folders 
