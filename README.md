@@ -8,23 +8,16 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
 </div>
 <br>
 
+## Under Construction
+We are currently uploading the POC experiments and other resources to this Repo
+At this moment you can find the code fot Experiment-3 and Experiment-4 on their specific folders 
+More resources will be uploaded soon!
 
+Thanks...
 
-![Capoeira Project Desciption](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-description.png)
-
-## Demo
-A prototype version os this Website is hosted on Heroku and can be visited [here](https://capoeira-website.herokuapp.com/)
-
+<br>
 <div align=center>
-    <a href="https://capoeira-website.herokuapp.com/">
-        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" width="650px" />
-    </a>
+    <img src="https://github.com/paulonegrao/assets/blob/master/tio.png?" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
 </div>
 <br>
-
-## Specifications
-Requisites and specifications (sitemap, mockups, wireframes, graphic prototypes, etc.) can be found at:
-
-[![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-design-plan.png)](https://github.com/paulonegrao/capoeira-design-plan/blob/master/PauloNegrao_Major_Project%20_Part_A.pdf)
-
 
