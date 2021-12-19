@@ -20,13 +20,15 @@ and in a graph component, which are being displayed inside the AR app.
         <li>One Raspberry Pi: running Node-RED, Vuforia Spatial Edge Server</li>
         <li>One IPhone: running the Vuforia Toolbox app</li>
     </ul>
-    <ul>Tasks (only the additional ones will be listed):
+<li>Tasks (only the additional ones will be listed):</li>
+    <ul>
         <li>Install and configure Vuforia Spatial Edge Server open-source distributed edge infrastructure (to connect
             the Vuforia Toolbox app to physical objects, machines, and processes).</li>
         <li>Configure Airtable free version (platform for building collaborative apps in the cloud).</li>
         <li>Install and configure Vuforia Toolbox open-source AR app (to enable visualization and interaction with
             data and logic provided by the Vuforia Spatial Edge Server).</li>
      </ul>
+</ul>
 <h3>Results</h3>
 After implementing the required proceedings, the Node-RED has correctly updated the Airtable intermediary cloud
 dataset. In the sequence, the AR Vuforia Toolbox application has correctly accessed the cloud dataset and displayed
