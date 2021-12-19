@@ -9,14 +9,14 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
 <br>
 <h2>Video</h2/>
 <div align=center>
-    <a href="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.pdf">
-        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Video.png?raw=true" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
+    <a href="https://youtu.be/NqEGrzQWvYU">
+        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Slides.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
     </a>
 </div>
 <h2>Slides</h2/>
 <div align=center>
-    <a href="https://youtu.be/NqEGrzQWvYU">
-        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Slides.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
+    <a href="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Report.pdf">
+        <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Video.png?raw=true" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
     </a>
 </div>
 <h2>Poster</h2/>
