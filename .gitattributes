@@ -1,0 +1,2 @@
+*Vuforia filter=lfs diff=lfs merge=lfs -text
+*lib.a filter=lfs diff=lfs merge=lfs -text
