@@ -11,7 +11,7 @@ and in a graph component, which are being displayed inside the AR app.
 <div align=center>
     <img src="https://github.com/paulonegrao/assets/blob/master/POC13.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
 </div>
-*Proceedings
+### Proceedings
 • Components:
 – One 3D Printer (thiNgator): running Marlin
 – One Raspberry Pi: running Mosquitto, OctoPrint, and Node-RED
