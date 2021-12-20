@@ -40,7 +40,7 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
 
 ## Under Construction
 We are currently uploading the POC experiments and other resources to this Repo <br>
-At this moment you can find the code for experiment3 and experiment4 on their respective folders 
+At this moment you can find the code for experiment3 and experiment4 on their respective folders. 
 More experiments and resources will be uploaded soon!
 
 Thanks for stopping by...
