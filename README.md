@@ -21,7 +21,7 @@ This project is a proof of concept (POC), concretely demonstrating the combined 
 </div>
 <h2>Poster</h2/>
 <div align=center>
-    <a href="https://drive.google.com/file/d/1fTKeGBahwzhreoXQPkQ7L7-OOC2Dd3y6/view?usp=sharing">
+    <a href="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Poster.pdf">
         <img src="https://github.com/paulonegrao/assets/blob/master/AR_IoT_Combo_Poster.png" height="50%" width="50%" alt="AR - IoT Combo" width="650px" />
     </a>
 </div>
